@@ -42,8 +42,7 @@ upgrade. Pro+ pla
 $15/month. VIEW
 Sharp (Default)
 APPLY THEME
-3/6/26, 10:00 AM Termly
-https://app.termly.io/dashboard/website/346d609e-2162-4574-bf7d-d406fa2a670f/privacy-policy 1/11
+   
 How do we process your information? We process your information to
 provide, improve, and administer our Services, communicate with you, for
 security and fraud prevention, and to comply with law. We may also
@@ -94,8 +93,7 @@ COLLECT FROM YOU?
 1. WHAT INFORMATION DO WE COLLECT?
 Personal information you disclose to us
 In Short: We collect personal information that you provide to us.
-3/6/26, 10:00 AM Termly
-https://app.termly.io/dashboard/website/346d609e-2162-4574-bf7d-d406fa2a670f/privacy-policy 2/11
+   
 We collect personal information that you voluntarily provide to us when you
 express an interest in obtaining information about us or our products and
 Services, when you participate in activities on the Services, or otherwise
@@ -145,8 +143,7 @@ believe it is necessary for compliance with our legal obligations, such
 as to cooperate with a law enforcement body or regulatory agency,
 exercise or defend our legal rights, or disclose your information as
 evidence in litigation in which we are involved.
-3/6/26, 10:00 AM Termly
-https://app.termly.io/dashboard/website/346d609e-2162-4574-bf7d-d406fa2a670f/privacy-policy 3/11
+   
 Vital Interests. We may process your information where we believe
 it is necessary to protect your vital interests or the vital interests of a
 third party, such as situations involving potential threats to the safety
@@ -196,8 +193,7 @@ company assets, financing, or acquisition of all or a portion of our
 business to another company.
 5. DO WE USE COOKIES AND OTHER TRACKING
 TECHNOLOGIES?
-3/6/26, 10:00 AM Termly
-https://app.termly.io/dashboard/website/346d609e-2162-4574-bf7d-d406fa2a670f/privacy-policy 4/11
+   
 In Short: We may use cookies and other tracking technologies to collect
 and store your information.
 We may use cookies and similar tracking technologies (like web beacons
@@ -248,8 +244,7 @@ improperly collect, access, steal, or modify your information. Although we
 will do our best to protect your personal information, transmission of
 personal information to and from our Services is at your own risk. You
 should only access the Services within a secure environment.
-3/6/26, 10:00 AM Termly
-https://app.termly.io/dashboard/website/346d609e-2162-4574-bf7d-d406fa2a670f/privacy-policy 5/11
+   
 8. DO WE COLLECT INFORMATION FROM
 MINORS?
 In Short: We do not knowingly collect data from or market to children
@@ -303,8 +298,7 @@ contacting us by using the contact details provided in the section "HOW
 CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
 However, please note that this will not affect the lawfulness of the
 processing before its withdrawal nor, when applicable law allows, will it
-3/6/26, 10:00 AM Termly
-https://app.termly.io/dashboard/website/346d609e-2162-4574-bf7d-d406fa2a670f/privacy-policy 6/11
+   
 affect the processing of your personal information conducted in reliance on
 lawful processing grounds other than consent.
 Cookies and similar technologies: Most Web browsers are set to accept
@@ -588,4 +582,5 @@ your consent to our processing of your personal information. These rights
 may be limited in some circumstances by applicable law. To request to
 review, update, or delete your personal information, please fill out and
 submit a data subject access request.
+
 This Privacy Policy was created using Termly's Privacy Policy Generator
